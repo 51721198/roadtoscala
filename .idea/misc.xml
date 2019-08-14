@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-=======
-  <component name="JavaScriptSettings">
-    <option name="languageLevel" value="ES6" />
->>>>>>> a9bdaa9cbcdf8d7e62a125ed4d71265d10b513c4
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -42,10 +37,7 @@
       </profile-state>
     </entry>
   </component>
-<<<<<<< HEAD
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8.0_212" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_212" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
-=======
->>>>>>> a9bdaa9cbcdf8d7e62a125ed4d71265d10b513c4
 </project>
