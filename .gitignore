@@ -1,3 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+<<<<<<< HEAD
 project/target/streams/compile/compileIncSetup/
 target
+=======
+.idea/workspace.xml
+>>>>>>> a9bdaa9cbcdf8d7e62a125ed4d71265d10b513c4
